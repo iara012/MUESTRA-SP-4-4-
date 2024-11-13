@@ -56,6 +56,10 @@ button{
     border-radius: 10px;
 }
 
+.card{
+    margin: 25px;
+}
+
 /*
     height: 25%;
     width: 25%;
